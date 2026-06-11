@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Rust
+target/
+
+# OS
+.DS_Store
